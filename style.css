@@ -68,15 +68,6 @@ body {
 .col4 {
   border-radius: 0 0 2rem 0;
 }
-/* .col2{
-    background-color: white;
-}
-.col3{
-    background-color: rgb(49, 49, 49);
-}
-.col4{
-    background-color: white;
-} */
 
 h1 {
   padding: 2rem;
@@ -90,12 +81,7 @@ h1 {
   justify-content: end;
   align-items: center;
 }
-/* .op{
-    border: 1px solid  #001e34;
-}
-.eq{
-    color: #2baa3b; 
-} */
+
 .off {
   border-left: none;
   
